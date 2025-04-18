@@ -28,7 +28,7 @@ Publicar un paquete en GitHub o en PyPI te permite compartir código reutilizabl
 
 ## 📚 Índice
 
-- [📌 ¿Por qué publicar paquetes?](#📌-por-qué-publicar-paquetes)
+- [📌 ¿Por qué publicar paquetes?](#-📌-por-qué-publicar-paquetes)
 - [🔹 Publicación en GitHub Packages](#🔹-publicación-en-github-packages)
   - [1️⃣ Configurar el archivo setup.py](#1️⃣-configurar-el-archivo-setuppy)
   - [2️⃣ Crear archivo .pypirc](#2️⃣-crear-archivo-pypirc)
